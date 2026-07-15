@@ -6,28 +6,25 @@ body {
 }
 h1 {
     color: #2c3e50;
-    text-align: center;
-    margin-top: 20px;
+    margin-top: 20 px;
 }
 h2 {
     color: #636363;
-    text-align: center;
-    font-size: 20px;
+    font-size: 20 px;
 }
 p {
-    text-align: left;
-    font-size: 15px;
+    font-size: 15 px;
 }
 img {
     display: block;
-    margin: 20px auto;
-    width: 200px;
-    border-radius: 10px;
+    margin: 20 px auto;
+    width: 200 px;
+    border-radius: 10 px;
 }
 a {
     display: block;
     text-align: center;
-    margin-top: 15px;
+    margin-top: 15 px;
     text-decoration: none;
     color: #333;
 }
